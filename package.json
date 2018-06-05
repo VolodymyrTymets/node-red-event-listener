@@ -1,0 +1,12 @@
+{
+    "name": "event-listener",
+    "description": "event-listener",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "event-listener-flow.json",
+            "credentialsFile": "event-listener-flow_cred.json"
+        }
+    }
+}
