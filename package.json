@@ -3,7 +3,8 @@
     "description": "event-listener",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-contrib-vt-event-listener": "0.2.0"
+        "node-red-contrib-vt-event-listener": "0.2.0",
+        "moment": "^2.22.2"
     },
     "node-red": {
         "settings": {
